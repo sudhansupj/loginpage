@@ -1,0 +1,15 @@
+.wrapper{
+    height: 300px;
+    width:400px;
+    border:6px solid blueviolet;
+    margin-left: 50%;
+    margin-top:10px;
+    transform:translate(-50%);
+}
+.container{
+    margin-left: 90px;
+
+}
+input{
+    width: 200px;
+}
